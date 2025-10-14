@@ -1,3 +1,14 @@
+# 🧠 TxBrain_Engine
+
+[![Status](https://img.shields.io/badge/status-R%26D%20active-orange)]()
+[![Python](https://img.shields.io/badge/python-3.10+-blue)]()
+[![License](https://img.shields.io/badge/license-R%26D%20Internal-lightgrey)]()
+[![AI Shelter](https://img.shields.io/badge/project-AI%20Shelter-purple)]()
+
+> TxBrain Engine — AI-powered self-healing system for automatic error detection, diagnosis, and recovery.  
+> Integrates with **Shelter Server** and **Gemini AI** to learn, fix, and evolve in real time.  
+> Built for adaptive automation and intelligent infrastructure management.
+
 # 🧠 TxBrain Engine (R&D)
 
 > AI-powered self-healing system for autonomous error detection, diagnosis, and recovery.
